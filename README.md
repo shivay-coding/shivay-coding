@@ -37,13 +37,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Social Media:
 
-<a href="https://linkedin.com/in/ragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ragini/"><img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a>
+<a href="#"><img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
 </a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100078316657152" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aj zero coding" height="30" width="40" /></a>
 <a href="https://twitter.com/ragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>
-<a href="https://medium.com/@ragini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajaydhangar49" height="30" width="40" /></a>
 
 <br />
 
@@ -78,12 +78,12 @@ You can click the Preview link to take a look at your changes.
 ## Profile Status:
 
 <p align="center" width="100%">
-<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-dhangar&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" />
+<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=ragini49&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="27%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini49&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ajay-dhangar/github-readme-stats" />
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-dhangar&theme=dark" alt="ajay-dhangar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragini49&theme=dark" alt="ajay-dhangar" /></p>
 
 
 
