@@ -4,19 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-dhangar&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-dhangar" /> </p>
 
 
-- 🔭 I’m currently working on [Coding Website project](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 🔭 I’m currently working on [Coding Website project](#)
 
 - 🌱 I’m currently learning **JavaScript, DSA, MERN, React, etc.**
 
-- 👯 I’m looking to collaborate on [Coding Website project](https://github.com/Ajay-Dhangar/Aj_Zero_Coding.github.io)
+- 👯 I’m looking to collaborate on [Coding Website project](#)
 
-- 👨‍💻 All of my projects are available at [https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about](https://ajay-dhangar.github.io/Responsive-portfolio-website.github.io/#about)
+- 👨‍💻 All of my projects are available at [GitHub](#)
 
-- 📝 I regularly write articles on [https://medium.com/@ajaydhangar49](https://medium.com/@ajaydhangar49)
+- 📝 I regularly write articles on [https://medium.com/](#)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, DSA in JAVA**
 
-- 📫 How to reach me **ajaydhangar49@gmail.com**
+- 📫 How to reach me **info@gmail.com**
 
 - ⚡ Fun fact **I think I'm good developer.**
 
